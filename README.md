@@ -1,6 +1,19 @@
 # UI-layout
 移动应用开发实验二
 
+```
+|-thisRepo
+	|-Homework01
+		|-app
+			|-build
+				|-outputs
+					|-apk
+						|-debug
+							|-app-debug.apk
+			|-release
+				|-app-release.apk
+```
+
 - Android studio默认有一个ConstraintLayout，没有影响。
 
 - main函数最外层好像不能给数组类型赋初值？至少不能直接赋值，但是不赋初值也没有影响。
