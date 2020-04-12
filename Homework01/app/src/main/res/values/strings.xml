@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Homework01</string>
+    <string name="textView">1</string>
+    <string name="textView2">2</string>
+    <string name="textView3">3</string>
+    <string name="textView4">4</string>
+    <string name="radioButton">Red</string>
+    <string name="radioButton2">Blue</string>
+    <string name="radioButton3">Yellow</string>
+    <string name="radioButton4">Green</string>
+    <string name="radioButton5">White</string>
+    <string name="button">set 1</string>
+    <string name="button2">set 2</string>
+    <string name="button3">set 3</string>
+    <string name="button4">set 4</string>
+    <string name="checkBox">Enable buttons</string>
+</resources>
